@@ -1,0 +1,9 @@
+.users{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    width: 95%;
+    border: 2px solid red;
+    background-color: rgb(241, 228, 228);
+    border-radius: 5px;
+}
